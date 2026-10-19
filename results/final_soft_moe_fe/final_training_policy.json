@@ -1,0 +1,7 @@
+{
+  "epochs": 10,
+  "selection_signature": "31a6b2840852f7e97152b068e9bd30bc0b49e5cbac5b5997eebf68727150444d",
+  "basis": "best val_loss of original Soft MoE + FE",
+  "optimizer": "Adam lr=0.001",
+  "batch_size": 256
+}

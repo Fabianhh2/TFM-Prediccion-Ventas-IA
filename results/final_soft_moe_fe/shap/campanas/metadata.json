@@ -1,0 +1,12 @@
+{
+  "signature": "df998c3a4a614e3eaf21583fb0a891fcfc7321661bed9216adf8f657d160510b",
+  "array_hash": "3201763d5c77acbe7e68e37e4d0e2499c68328f6a584288594188ef1c1fb99d9",
+  "model_signature": "c208f598e9b654d25e0c1393e8c91a132786007734fc0a87dcb0ac9118761fcf",
+  "output": "residual monetary units",
+  "group": "Campanas",
+  "background_n": 32,
+  "explained_n": 128,
+  "permutations": 10,
+  "seed": 42,
+  "shap_version": "0.52.0"
+}

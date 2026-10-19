@@ -1,0 +1,21 @@
+{
+  "selected_architecture": "soft_moe_feature_engineering",
+  "validation_metrics_covered": {
+    "MAE": 1705.4272869957522,
+    "RMSE": 3583.6674038403494,
+    "WMAE": 1691.6817909943597,
+    "R2": 0.9741214558911923
+  },
+  "validation_n": 113330,
+  "validation_total": 115588,
+  "validation_coverage": 0.98046510018341,
+  "final_training_examples": 263446,
+  "final_epochs": 10,
+  "test_total": 115064,
+  "test_covered": 113915,
+  "test_without_prediction": 1149,
+  "test_accuracy": "No evaluable: test sin etiquetas",
+  "shap_executed": true,
+  "selection_signature": "31a6b2840852f7e97152b068e9bd30bc0b49e5cbac5b5997eebf68727150444d",
+  "final_signature": "c208f598e9b654d25e0c1393e8c91a132786007734fc0a87dcb0ac9118761fcf"
+}

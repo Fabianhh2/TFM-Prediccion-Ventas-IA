@@ -1,0 +1,10 @@
+{
+  "signature": "a94faeb006dc3d5e3da42062e8697db2e8a891eb12508ad147f94a1584b11485",
+  "config": {
+    "algoritmo": "LinearRegression",
+    "features": [
+      "Lag_52"
+    ],
+    "version": 1
+  }
+}

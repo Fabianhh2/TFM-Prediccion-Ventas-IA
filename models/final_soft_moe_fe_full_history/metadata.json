@@ -1,0 +1,24 @@
+{
+  "signature": "c208f598e9b654d25e0c1393e8c91a132786007734fc0a87dcb0ac9118761fcf",
+  "versions": {
+    "python": "3.13.16",
+    "numpy": "2.1.3",
+    "pandas": "2.2.3",
+    "sklearn": "1.6.1",
+    "tensorflow": "2.21.0"
+  },
+  "policy": {
+    "epochs": 10,
+    "selection_signature": "31a6b2840852f7e97152b068e9bd30bc0b49e5cbac5b5997eebf68727150444d",
+    "basis": "best val_loss of original Soft MoE + FE",
+    "optimizer": "Adam lr=0.001",
+    "batch_size": 256
+  },
+  "hashes": {
+    "model.weights.h5": "54df9338470ff31c15b501c64eac7ecb98c882f4272912debedd1c681ea13ba3",
+    "preprocessor.joblib": "fc047d681c55a92d85dcf7111b913fd291325e8d866b5eba3b2e97d2d253c51d",
+    "target_scaler.joblib": "bcfb7866d0eb8c28c7e9b79b9f4bfdc90bf7ba78ffa9ff63bb0400a898a935c6",
+    "history.csv": "4d541d340c3f4585bb580e786b8ac5376470161f7b95f8292102702e2519723b",
+    "config.json": "9873d9c5c10e6954eaed2e8f9093ecc1604c2738377f7786cf5571c2b0587d94"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "signature": "1d8f95f899841e3b48f630e9a9446eb37d456199384f27cecff626da11c281b4",
+  "config": {
+    "algoritmo": "LinearRegression",
+    "preprocesamiento": "median-standardscale-onehot",
+    "features": [
+      "Store",
+      "Dept",
+      "Type",
+      "Temperature",
+      "Fuel_Price",
+      "MarkDown1",
+      "MarkDown2",
+      "MarkDown3",
+      "MarkDown4",
+      "MarkDown5",
+      "CPI",
+      "Unemployment",
+      "Size",
+      "TimeIndex",
+      "WeekSin",
+      "WeekCos",
+      "Lag_52",
+      "IsHoliday",
+      "MarkDown1_isna",
+      "MarkDown2_isna",
+      "MarkDown3_isna",
+      "MarkDown4_isna",
+      "MarkDown5_isna",
+      "Lag_52_isna"
+    ],
+    "version": 1
+  }
+}

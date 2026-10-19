@@ -1,0 +1,34 @@
+{
+  "signature": "ce357cfa7f9fb4487648200ff636794533c75a38e9213864ae038ac67ca3e810",
+  "config": {
+    "algoritmo": "LinearRegression",
+    "preprocesamiento": "median-standardscale-onehot",
+    "features": [
+      "Store",
+      "Dept",
+      "Type",
+      "Lag_52",
+      "Temperature",
+      "Fuel_Price",
+      "Delta_Temperature",
+      "Delta_Fuel_Price",
+      "MarkDown1",
+      "MarkDown2",
+      "MarkDown3",
+      "MarkDown4",
+      "MarkDown5",
+      "Size",
+      "TimeIndex",
+      "WeekSin",
+      "WeekCos",
+      "IsHoliday",
+      "MarkDown1_isna",
+      "MarkDown2_isna",
+      "MarkDown3_isna",
+      "MarkDown4_isna",
+      "MarkDown5_isna"
+    ],
+    "target": "Residual_52",
+    "version": 1
+  }
+}

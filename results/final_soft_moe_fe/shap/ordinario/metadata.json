@@ -1,0 +1,12 @@
+{
+  "signature": "fe7c5f8a56e8552a861eadc46e4c194bf6ba2bdfd5fb7ba3c8e3d5af5199443d",
+  "array_hash": "fe0a55f3b786bbd2da09751f2a7b75a29ec8a19c19fbd2f1db5bdae727208aa6",
+  "model_signature": "c208f598e9b654d25e0c1393e8c91a132786007734fc0a87dcb0ac9118761fcf",
+  "output": "residual monetary units",
+  "group": "Ordinario",
+  "background_n": 32,
+  "explained_n": 128,
+  "permutations": 10,
+  "seed": 42,
+  "shap_version": "0.52.0"
+}
